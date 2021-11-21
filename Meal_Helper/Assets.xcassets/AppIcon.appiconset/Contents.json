@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (1).jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (2).jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (3).jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (4).jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (5).jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (5)-1.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (6).jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (7).jpg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727019.jpg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (8).jpg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (2)-1.jpg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727020.jpg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (4)-1.jpg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (9).jpg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (10).jpg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (11).jpg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "happy-smiling-funny-cute-burger-vector-22727018 (12).jpg",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
